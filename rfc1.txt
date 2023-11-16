@@ -1,0 +1,55 @@
+P2P-CI/1.0 200 OK
+Date: Sun, 06 Apr 2014 14:04:47 EDT
+OS: Darwin
+Last-Modified: Fri Apr  4 11:34:17 2014
+Content-Length: 21707
+Content-Type: text/text 
+
+
+
+
+
+
+Network Working Group                                   Steve Crocker
+Request for Comments: 1                                          UCLA
+                                                         7 April 1969
+
+
+                         Title:   Host Software
+                        Author:   Steve Crocker
+                          Installation:   UCLA
+                          Date:   7 April 1969
+             Network Working Group Request for Comment:   1
+
+
+CONTENTS
+
+INTRODUCTION
+
+  I. A Summary of the IMP Software
+
+     Messages
+
+     Links
+
+     IMP Transmission and Error Checking
+
+     Open Questions on the IMP Software
+
+ II. Some Requirements Upon the Host-to-Host Software
+
+     Simple Use
+
+     Deep Use
+
+     Error Checking
+
+III. The Host Software
+
+     Establishment of a Connection
+
+     High Volume Transmission
+
+     A Summary of Primitives
+
+   

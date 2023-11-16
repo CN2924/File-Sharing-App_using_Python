@@ -1,0 +1,44 @@
+P2P-CI/1.0 200 OK
+Date: Sun, 06 Apr 2014 16:09:33 Eastern Daylight Time
+OS: Windows
+Last-Modified: Sun Apr  6 16:05:39 2014
+Content-Length: 1068
+Content-Type: text/text 
+P2P-CI/1.0 200 OK
+Date: Sun, 06 Apr 2014 16:05:39 Eastern Daylight Time
+OS: Windows
+Last-Modified: Fri Apr  4 13:00:21 2014
+Content-Length: 17708
+Content-Type: text/text 
+
+
+
+
+
+
+Network Working Group                                        Bill Duvall
+Request for Comments: 2                                              SRI
+
+
+                            [unknown title]
+
+
+[page 1 missing]
+
+1 LINKS
+
+   1a Control Links
+
+      1a1 Logical link 0 will be a control link between any two HOSTs on
+      the network
+
+         1a1a Only one control link may exist between any two HOSTs on
+         the network. Thus, if there are n HOSTs on the network, there
+         are n-1 control links from each HOST.
+
+      1a2 It will be primarily used for communication between HOSTs for
+      the purposes of:
+
+         1a2a Establishing user links
+
+         1a2b Brea
